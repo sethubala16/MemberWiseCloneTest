@@ -1,0 +1,1 @@
+D:\UWP Test Projects\MemberWiseCloneTest\MemberWiseCloneTest\MemberWiseCloneTest.csproj;x86
